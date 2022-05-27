@@ -1,0 +1,13 @@
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.csprojAssemblyReference.cache
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.AssemblyInfoInputs.cache
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.AssemblyInfo.cs
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.csproj.CoreCompileInputs.cache
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\bin\Debug\netcoreapp3.1\logging.exe
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\bin\Debug\netcoreapp3.1\logging.deps.json
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\bin\Debug\netcoreapp3.1\logging.runtimeconfig.json
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\bin\Debug\netcoreapp3.1\logging.runtimeconfig.dev.json
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\bin\Debug\netcoreapp3.1\logging.dll
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\bin\Debug\netcoreapp3.1\logging.pdb
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.dll
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.pdb
+C:\Users\Prathmesh\OneDrive\Desktop\C#.Net\logging\logging\obj\Debug\netcoreapp3.1\logging.genruntimeconfig.cache
